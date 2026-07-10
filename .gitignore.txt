@@ -1,0 +1,34 @@
+# Executable files
+*.exe
+*.out
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+
+# Visual Studio Code
+.vscode/
+
+# Code::Blocks
+*.layout
+*.depend
+
+# Dev-C++
+*.dev
+
+# CodeLite
+*.project
+*.workspace
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
