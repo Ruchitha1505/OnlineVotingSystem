@@ -124,20 +124,6 @@ You can add screenshots of:
 
 ---
 
-## 👩‍💻 Author
-
-**Ruchitha M**
-
-Bachelor of Engineering
-
-Information Science and Engineering
-
-SJB Institute of Technology
-
-Academic Year: 2024–2025
-
----
-
 ## 📄 License
 
 This project is developed for educational and academic purposes.
